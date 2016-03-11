@@ -12,7 +12,7 @@
     $('.arrow-down').on('click', function(e) {
       e.preventDefault();
       return $("html,body").animate({
-        scrollTop: $("#page-work").offset().top
+        scrollTop: $("#page-about").offset().top
       });
     });
     if (Modernizr.touch) {
