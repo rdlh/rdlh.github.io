@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rdlh
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rdlh.io
+  * I am rdlh (https://keybase.io/rdlh) on keybase.
+  * I have a public key with fingerprint 6B41 A6DC D0B2 7B37 6B5E  669A 1755 EDB5 EEDB 8C18
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e7d266531d9c0c90be4acb04e37a9fba762515fbe711ddc28b40d61c30d663100a",
+            "fingerprint": "6b41a6dcd0b27b376b5e669a1755edb5eedb8c18",
+            "host": "keybase.io",
+            "key_id": "1755edb5eedb8c18",
+            "kid": "0101e7d266531d9c0c90be4acb04e37a9fba762515fbe711ddc28b40d61c30d663100a",
+            "uid": "46521f5b7e94d9b602a7ba623c0be319",
+            "username": "rdlh"
+        },
+        "service": {
+            "hostname": "rdlh.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460636707,
+    "expire_in": 157680000,
+    "prev": "c4aa5d724adfb5935be3b3170760f4489c46cc78e61609133105560783033234",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJdSFRBFF5NC00xeqgwUrqpD7HIzP2Ze++WYVlBihVBGVKtM/fOrje3
+3XXvumpaKoSaiUL/hVTWQ/5AmSH0o6ihJQRhhCiEQVZYL6UUkonSXCvoocfm4Qzn
+zPd9853DGYhdYosOayt82Vx+O+t02PP+hiJbTlz9hjKO+PRSzlHGFdDFi3p0agad
+BYbOOTgAAaSyziMkCVBXNaCpgFARawSIVJCx6iJYRrwEJRehMoS6rvEKEYGOoCaw
+iAQIAObsnMvwumnAHzC8QSaLiAgx0jUdEF4mgoyIRBFSMZQlieosYUHRoMKI+T7T
+YjBzBJs01fCxGkuci/b+gf/PvosW5UQk8dAlEZmqoq4SBHgsE4x4QWOqAlQtoEkD
+XnyMMnRA9+RzJ+wcq4QMjVpDtbr46/VXG/6AL+jTfB5WzA8G/abDIgVL/RaqmBLn
+b76TGF6djY8xQjRgGj4v54AMqQUNSxCKCCAByUC2c7TEbwSo07AQkowUwI71Dw0x
+SU3EWNJlXsS6i0iqIDHrRICMiIBLFBVVE5GmyQpFEAEVCmwEkoSArAhAEHhB5KyO
+Cr0+zqEwm9jNJE3D7cXBogDlTjzpOxRhC4u2LY0Mt9bKFh214s+ytVYtW0AJs6e+
+TtdkX1rdPGUvrr5Y+7Z5oaU4szI1an4Gru+KeFXbGj+9fyTtOP6m3ep96F+1bXyw
+9cDA4e4Yf5o9I2ehe2b3tu+ymT41fENJerNlpu5Re2WOuetmRl1iTznYF7OyanSq
+ovNC22hTSk/ijyO0saOh/V3n06ho9864obi89MGhc1vfV49U7Xgck9zbdHr0zjP3
+wT2558M7UjP75l8krJ10zKVfHzu6L6brbqh2o+1af0VzScWn3Mb+4U1R99NrLl+9
+l5Wcd9JTONES2Zkyd3ZvXfz2se657Cuhj6+bUGrXZiNjHtVvGF3euO7BQuzEl4QI
+T+I11/jsmcw1n3FW0uSHnyCAQDE=
+=F72o
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rdlh
+
+==================================================================
